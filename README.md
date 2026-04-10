@@ -45,6 +45,30 @@
 </p>
 
 ---
+### 🤖 GenAI & LLM Stack
+
+<p align="center">
+  <!-- LangChain -->
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white"/>
+
+  <!-- LangGraph -->
+
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+  <!-- RAG -->
+
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge"/>
+
+  <!-- Pinecone -->
+
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20DB-4CAF50?style=for-the-badge"/>
+
+  <!-- OpenAI -->
+
+  <img src="https://img.shields.io/badge/OpenAI-LLM-black?style=for-the-badge&logo=openai"/>
+
+</p>
+
 
 ## 🚀 Featured Projects
 
