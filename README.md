@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Backend+Engineer;🤖+GenAI+Developer;⚡+LLM+%7C+RAG+%7C+System+Design;🔥+Building+Production+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;GenAI+Developer;Node.js+%7C+System+Design;Building+Scalable+AI+Systems" />
 </p>
 
 ---
