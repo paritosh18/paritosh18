@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 1.5+ year experience as MERN Stack Developer  
+- 💼 1.5+ year experience as MERN Stack Developer | Gen-ai Developer
 - 🔭 Currently working on: **Scalable Backend Systems & Redis-like DB**
 - 🌱 Learning: **System Design, Kafka, Docker, AWS**
 - ⚡ Strong in: **Node.js, Express, PostgreSQL, Redis**
@@ -46,8 +46,8 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: (add link)
-- 📧 Email: (add email)
+- 💼 LinkedIn: www.linkedin.com/in/paritosh-chudasama
+- 📧 Email: chudasamaparitosh@gmail.com
 
 ---
 
