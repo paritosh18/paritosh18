@@ -20,7 +20,7 @@
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-* 💼 1+ year experience as **MERN Stack Developer**
+* 💼 1.5+ year experience as **MERN Stack Developer**
 * 🤖 Building **AI-powered backend systems (RAG, Chatbots)**
 * 🌱 Learning: **LangChain, Vector Databases, System Design**
 * ⚡ Strong in: **Node.js, PostgreSQL, Redis, APIs**
@@ -116,10 +116,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="www.linkedin.com/in/paritosh-chudasama">
     <img src="https://img.shields.io/badge/LinkedIn-Paritosh-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="chudasamaparitosh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
