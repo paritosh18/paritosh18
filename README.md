@@ -21,7 +21,7 @@
 <img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ```diff
-+ Backend Developer with 1+ year experience
++ Backend Developer with 1.5+ year experience
 + Building AI-powered systems (RAG, Chatbots)
 + Strong in Node.js, PostgreSQL, Redis
 + Learning LangChain, LangGraph, Vector DBs
